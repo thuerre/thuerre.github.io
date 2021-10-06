@@ -289,6 +289,28 @@ h3.txt-tl {
   margin-bottom: 15px;
 }
 
+.portfolio-box:hover .img-responsive{
+    webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+    -webkit-transition-duration: 0.5s;
+    filter: blur(4px);
+    transition-duration: 0.5s;
+}
+.portfolio-box:hover .portfolio-middle{
+  opacity: 1;
+}
+.portfolio-middle{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.portfolio-txt {
+  color: white;
+  font-size: 40px;
+}
 .padding-right-zero {
   padding-right: 0px;
 }

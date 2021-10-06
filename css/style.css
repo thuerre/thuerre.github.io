@@ -290,7 +290,7 @@ h3.txt-tl {
 }
 
 .portfolio-box:hover .img-responsive{
-    webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+    webkit-filter: blur(10px); /* Chrome, Safari, Opera */
     -webkit-transition-duration: 0.5s;
     filter: blur(4px);
     transition-duration: 0.5s;

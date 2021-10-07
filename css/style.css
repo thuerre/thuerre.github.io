@@ -312,6 +312,17 @@ h3.txt-tl {
   color: white;
   font-size: 40px;
 }
+
+.btn-hidden{
+  height: 95%;
+  width: 95%;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  color: transparent;
+  background-color: transparent;
+  border-color: transparent;
+}
 .padding-right-zero {
   padding-right: 0px;
 }

@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #FFD34E;
   border: 0px;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   text-transform: uppercase;
   padding: 10px 40px;
   font-weight: normal;
@@ -281,6 +281,7 @@ h3.txt-tl {
 
 .cta-txt p {
   color: #fff;
+  font-size: 24px;
 }
 
 /****/
@@ -395,9 +396,9 @@ a, a:hover {
 .contact-icon-container {
   position: absolute;
   top: -80px;
-  right: -300px;
+  right: -100px;
   padding-right: 20px;
-  font-size: 200px;
+  font-size: 150px;
   color: #555;
   line-height: 100px;
   -ms-transform: rotate(20deg);

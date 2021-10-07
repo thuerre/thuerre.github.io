@@ -315,6 +315,9 @@ h3.txt-tl {
 .padding-right-zero {
   padding-right: 0px;
 }
+.padding-top-line{
+  padding-top: 49px;
+}
 
 #contact {
   background-color: #f8f8f8;

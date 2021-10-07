@@ -317,6 +317,7 @@ h3.txt-tl {
   height: 95%;
   width: 95%;
   position: absolute;
+  margin-left: 15px;
   top: 0%;
   left: 0%;
   color: transparent;

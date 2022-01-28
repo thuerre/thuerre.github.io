@@ -287,7 +287,7 @@ h3.txt-tl {
 /****/
 
 .portfolio-box {
-  margin-bottom: 15px;
+  padding-bottom: 15px;
 }
 
 .portfolio-box:hover .img-responsive{

@@ -108,7 +108,10 @@ h1, h2, h3, h4, h5, h6 {
 .wrapper {
   padding: 140px 0px 130px;
 }
-
+iframe {
+    display: block;
+    margin: auto;
+}
 .top-title {
   z-index: 5;
   font-size: 40px;

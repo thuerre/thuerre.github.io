@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-header {
-  background: url(../img/banner.png) no-repeat;
+  background: url(../img/TH_Banner.png) no-repeat;
   background-size: cover;
   min-height: 700px;
 }
